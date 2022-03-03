@@ -14,6 +14,16 @@
 
 7. Community Detection Based on Distance Dynamics
 
+8. Community detection in networks: A multidisciplinary review
+
+9. Community detection in attributed graphs: An embedding approach
+
+10. Certified robustness of community detection against adversarial structural perturbation via randomized smoothing
+
+11. Community-centric graph convolutional network for unsupervised community detection
+
+12. Local overlapping community detection
+
 
 
 
@@ -31,12 +41,23 @@
 
 6. Recommender systems with social regularization.
 
-
 7. Circle-based Recommendation in Online Social Networks
 
 8. Context-Aware Event Recommendation in Event-based Social Networks
 
+9. An efficient adaptive transfer neural network for social-aware recommendation
 
+10. HyperSoRec: Exploiting hyperbolic user and item representations with multiple aspects for social-aware recommendation
+
+11. Graph neural networks for social recommendation
+
+12. Attentive recurrent social recommendation
+
+13. Collaborative neural social recommendation
+
+14. Self-supervised multi-channel hypergraph convolutional network for social recommendation
+
+15. Session-based social recommendation via dynamic graph attention networks
 
 
 ## User Clustering
@@ -46,6 +67,19 @@
 2. User Clustering Based Social Network Recommendation
 
 3. Collaborative user clustering for short text streams
+
+4. I know you'll be back: Interpretable new user clustering and churn prediction on a mobile social application
+
+5. A survey of user profiling: State-of-the-art, challenges, and solutions
+
+6. Adversarial substructured representation learning for mobile user profiling
+
+7. Dynamic embeddings for user profiling in twitter
+
+8. Semi-supervised User Profiling with Heterogeneous Graph Attention Networks.
+
+9. Deep user modeling for content-based event recommendation in event-based social networks
+
 
 
 
@@ -60,6 +94,16 @@
 4. Earthuake Shakes Twitter Users: Real-time Event Detection by Social Sensors 
 
 5.  Filtering and Polarity Detection for Reputation Management on Tweets 
+
+6. Detecting fake news over online social media via domain reputations and content understanding
+
+7. Fake news, social media and marketing: A systematic review
+
+8. Fake news: Fundamental theories, detection strategies and challenges
+
+9. Beyond news contents: The role of social context for fake news detection
+
+10. Fake news detection: An interdisciplinary research
 
 
 
@@ -84,7 +128,17 @@
 
 9.  Structure-Aware Review Mining and Summarization 
 
-10.  Sumlr**:** continuous summarization of evolving tweet streams 
+10.  Sumblr: continuous summarization of evolving tweet streams
+
+11.  Explaining controversy on social media via stance summarization
+
+12. Timeline Summarization from Social Media with Life Cycle Models.
+
+13. Twitter event summarization by exploiting semantic terms and graph network
+
+14. Twitter summarization based on social network and sparse reconstruction
+
+15. Abstractive event summarization on twitter
 
 
 
@@ -100,6 +154,14 @@
 4. Want to be Retweeted? Large Scale Analytics on Factors Impacting Retweet in Twitter Network. 
 
 5. Retweet Behavior Prediction Using Hierarchical Dirichlet Process. 
+
+6. Hot topic-aware retweet prediction with masked self-attentive model
+
+7. Early detection of fake news on social media through propagation path classification with recurrent and convolutional networks
+
+8. Rumor propagation is amplified by echo chambers in social media
+
+9. Rumor detection on social media with bi-directional graph convolutional networks
 
 
 
@@ -118,13 +180,27 @@
 
 6. Influencer Detection Approaches in Social Networks: A Current State-of-the-Art. 
 
+7. Persuasive influence detection: The role of argument sequencing
+
+8. Community detection in attributed graphs: An embedding approach
+
+9. Network embedding for community detection in attributed networks
+
+10. Edmot: An edge enhancement approach for motif-aware community detection
 
 
 
-## Tag generation from social media
+
+## Tag generation and social bots
 
 1.  Keyphrase Extraction Using Deep Recurrent Neural Networks on Twitter
 2. Topic-Aware Neural Keyphrase Generation for Social Media Language
 3. Ne-rank: A novel graph-based keyphrase extraction in twitter
 4. Topicrank: Graph-Based Topic Ranking for keyphrase Extraction
 5. Topical keyphrase extraction from twitter
+6. Topic-aware neural keyphrase generation for social media language
+7. Red bots do it better: Comparative analysis of social bot partisan behavior
+8. Bot electioneering volume: Visualizing social bot activity during elections
+9. Social bot detection using tweets similarity
+10. Contrast pattern-based classification for bot detection on twitter
+11. Athena 2.0: Contextualized Dialogue Management for an Alexa Prize SocialBot
